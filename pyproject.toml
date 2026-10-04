@@ -1,6 +1,6 @@
 [project]
 name = "span-context-propagator"
-version = "0.1.0"
+version = "0.1.1"
 description = "Serializes and deserializes trace_id, span_id, and flags into and from W3C Trace Context and Baggage header formats."
 requires-python = ">=3.10"
 dependencies = []
